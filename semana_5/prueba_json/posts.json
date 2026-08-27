@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Primeros pasos con Python",
+    "autor": "Ana Pérez",
+    "estado": "publicado",
+    "tags": ["Python", "Programación"],
+    "contenido": "En este post aprendemos los conceptos básicos."
+  },
+  {
+    "id": 2,
+    "titulo": "Módulos y paquetes",
+    "autor": "Ana Pérez",
+    "estado": "borrador",
+    "tags": ["Python", "Módulos", "Paquetes"],
+    "contenido": "Ejemplo de organización de un proyecto Python."
+  }
+]

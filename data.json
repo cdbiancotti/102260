@@ -1,0 +1,18 @@
+{
+    "2026-08-13T09:49:38.633971": {
+        "valores": [
+            1.0,
+            1.0
+        ],
+        "operacion": "Suma",
+        "resultado": 2.0
+    },
+    "2026-08-13T09:51:20.458157": {
+        "valores": [
+            3.0,
+            5.0
+        ],
+        "operacion": "multiplicacion",
+        "resultado": 15.0
+    }
+}

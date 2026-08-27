@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Python desde cero",
+    "autor": "Ana Pérez",
+    "estado": "publicado"
+  },
+  {
+    "id": 2,
+    "titulo": "Archivos JSON",
+    "autor": "Carlos Gómez",
+    "estado": "borrador"
+  }
+]
